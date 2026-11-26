@@ -21,7 +21,7 @@ RESULTS_DIR = ROOT / "results"
 FEAT_DIR = ROOT / "features"
 FIG_DIR = ROOT / "figures"
 
-SEED = 26011  # all numeric characters of roll number M26CSA011, in order
+SEED = 260002  # all numeric characters of roll number P26CS0002, in order
 CLASSES = ["airplane", "automobile", "bird", "cat", "deer",
            "dog", "frog", "horse", "ship", "truck"]
 
